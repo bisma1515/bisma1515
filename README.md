@@ -1,57 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&text=RUBISMA%20BARUNA%20CAKRA&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Informatics%20Engineering%20Student&descAlignY=60&descSize=16" width="100%"/>
-
-<br>
-
-<img src="https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1400&q=80" width="85%" style="border-radius: 12px;"/>
+<img src="./assets/evo9.jpg" width="100%" />
 
 <br><br>
 
-### `building • learning • creating`
+# RUBISMA BARUNA CAKRA
+
+### Informatics Engineering Student
+
+`Code` · `Create` · `Improve`
+
+<br>
+
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm an Informatics Engineering student who enjoys building things with code and exploring new technologies.
+I'm an Informatics Engineering student interested in software development and technology.
 
-* 🎓 Informatics Engineering Student
-* 💻 Interested in Web Development & Software Development
-* 🔧 Currently learning and experimenting with different technologies
-* 🚗 Automotive enthusiast
+Currently learning, building projects, and experimenting with different technologies.
 
 ---
 
-## 🛠️ Technologies
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,git,github,vscode,docker,linux&perline=6">
 
 </div>
 
 ---
 
-## 🚘 Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏁 Project One
+### 🛒 Toko IEM
 
-A web-based application built for learning and experimenting with modern web technologies.
+Web-based store management system for managing products, transactions, and inventory.
+
+**PHP · MySQL · Bootstrap**
 
 </td>
 
 <td width="50%">
 
-### 🔧 Project Two
+### 📊 Utility Tracker
 
-A software project focused on solving everyday problems through technology.
+Application for tracking daily utility usage and recording data.
+
+**Flutter · Dart · Firebase**
 
 </td>
 </tr>
@@ -59,17 +66,21 @@ A software project focused on solving everyday problems through technology.
 <tr>
 <td width="50%">
 
-### 💻 Project Three
+### 🌐 Personal Website
 
-A university project developed as part of my Informatics Engineering studies.
+Personal portfolio website with a modern and responsive interface.
+
+**HTML · CSS · JavaScript**
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Project Four
+### 📚 Library System
 
-An experimental project where I explore new programming concepts.
+Desktop-based library management system.
+
+**Java · MySQL**
 
 </td>
 </tr>
@@ -77,15 +88,17 @@ An experimental project where I explore new programming concepts.
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=github_dark" height="170">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true">
 
 </div>
 
@@ -93,6 +106,6 @@ An experimental project where I explore new programming concepts.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117">
 
 </div>
