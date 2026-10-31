@@ -33,14 +33,12 @@
 ## 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bisma1515&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bisma1515&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=bisma1515&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma1515&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisma1515&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 ---
