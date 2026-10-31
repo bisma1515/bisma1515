@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP">a
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -30,40 +30,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=bisma1515&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=bisma1515&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ GitHub Activity & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-```javascript
-const rubisma = {
-    role: "Informatics Engineering Student",
-    focus: ["Software Development", "Web Technologies"],
-    currentStatus: "Building better things, one commit at a time.",
-    coffeeIntake: "High"
-};
-
-console.log(rubisma.currentStatus);
-```
-
----
+## 📊 GitHub Stats & Top Languages
 
 <div align="center">
-  <sub>夢は、終わらない — Dreams never end.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=bisma1515&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisma1515&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisma1515&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<img src="./footer-art.svg" width="100%">
