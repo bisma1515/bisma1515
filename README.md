@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img src="./divider.svg" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -28,19 +28,12 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 </p>
 
----
+<img src="./divider.svg" width="100%">
 
-## 📊 GitHub Stats & Top Languages
+<img src="./tagline.svg" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bisma1515&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bisma1515&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisma1515&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/bisma1515?tab=followers"><img src="https://img.shields.io/github/followers/bisma1515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1757d6" alt="GitHub Followers"></a>
+</p>
 
 <img src="./footer-art.svg" width="100%">
