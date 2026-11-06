@@ -1,4 +1,4 @@
-<img src="./evo-banner.svg" width="100%">
+<img src="./evo-banner_2.svg" width="100%">
 
 <div align="center">
 
